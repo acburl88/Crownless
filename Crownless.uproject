@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4F743133-45BE-F939-38C1-3F916D87C1E2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Crownless",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
